@@ -13,7 +13,7 @@ The **bioinformatics analyses** and **orthology (cross-species mapping) analyses
 
 - **Science (2024)**, DOI: `10.1126/science.adp5182`
 - **Heidelberg Open Research Data (Heidelberg University)** dataset:
-  - https://heidata.uni-eidelberg.de/dataset.xhtml?persistentId=doi:10.11588/DATA/BX6REK
+  - https://doi.org/10.11588/data/BX6REK
 
 The upstream raw data include (but are not limited to):
 
